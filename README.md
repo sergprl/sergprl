@@ -1,10 +1,10 @@
-<h3 align="center">A passionate backend developer from México 🇲🇽</h3>
+<h3 align="center">A passionate backend and embedded systems developer from México 🇲🇽</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sergprl&label=Profile%20views&color=0e75b6&style=flat" alt="sergprl" /> </p>
 
 - 🤝 I’m currently learning **Springboot**
 
-- 💬 Ask me about **java**
+- 💬 Ask me about **java** or **C++**
 
 - 📫 How to reach me **sergio.peral.m@gmail.com**
 
